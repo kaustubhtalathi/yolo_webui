@@ -7,6 +7,7 @@ import StickyFooter from './stickyFooter'
 export default function Home() {
   return (
     <div>
+      {/* <App /> */}
       <Dashboard />
       {/* <Head>
         <title>Create Next App</title>
